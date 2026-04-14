@@ -32,6 +32,7 @@ It operates using a square frame equipped with four stepper motors and a servo-c
 
 ## Mobile Application & Image Processing
 
+
 ### Mobile Application
 
 SpideyDraw includes a mobile application that provides a smooth and interactive interface for controlling the drawing process.
@@ -124,7 +125,15 @@ The system also displays:
 ---
 
 ## Demo
+
+
 ### Video 
+The video demonstrates:
+
+* Uploading an image
+* Processing it
+* Sending it to the robot
+* The robot drawing the final output
 
 https://github.com/user-attachments/assets/d1cd4493-7d35-4bc6-91aa-35f840f17d6b
 
@@ -132,12 +141,12 @@ https://github.com/user-attachments/assets/d1cd4493-7d35-4bc6-91aa-35f840f17d6b
 ### Screenshots
 
 #### Get started screen
+
 ![WhatsApp Image 2026-04-13 at 7 21 58 AM(2)](https://github.com/user-attachments/assets/ad63b276-85ee-4ab2-a884-a48432e78a8e)
 
-
 #### Upload Screen
-![WhatsApp Image 2026-04-13 at 7 21 58 AM(1)](https://github.com/user-attachments/assets/04f3e815-ff07-4faa-aa11-a848008c58a0)
 
+![WhatsApp Image 2026-04-13 at 7 21 58 AM(1)](https://github.com/user-attachments/assets/04f3e815-ff07-4faa-aa11-a848008c58a0)
 
 #### Image Preview
 
@@ -147,33 +156,17 @@ https://github.com/user-attachments/assets/d1cd4493-7d35-4bc6-91aa-35f840f17d6b
 
 ![WhatsApp Image 2026-04-13 at 7 21 59 AM(2)](https://github.com/user-attachments/assets/3975b289-e8de-4f58-88f0-2ff482be4559)
 
-#### Compass genertaing orders to move
+#### Compass generating orders to move
 
 ![WhatsApp Image 2026-04-13 at 7 21 58 AM(3)](https://github.com/user-attachments/assets/60429d7c-fac2-432d-8401-35be01e8c5a3)
 
-
-
 ![WhatsApp Image 2026-04-13 at 7 21 59 AM(1)](https://github.com/user-attachments/assets/53a36dbf-d559-4f3b-86b4-1bc8324764d8)
-
-
 
 ![WhatsApp Image 2026-04-13 at 7 21 59 AM](https://github.com/user-attachments/assets/bbf445df-fde0-4a94-819d-e08310d24404)
 
 
 ---
 
-### Demo Video
-
-[Watch Demo](https://your-video-link-here.com)
-
-The video demonstrates:
-
-* Uploading an image
-* Processing it
-* Sending it to the robot
-* The robot drawing the final output
-
----
 
 ## Hardware
 
@@ -192,12 +185,12 @@ The video demonstrates:
 
 ---
 ## Images of the robot
+
 <img width="1058" height="795" alt="unnamed" src="https://github.com/user-attachments/assets/0313f72f-631d-442a-a8cd-6a8fa9d3fd2d" />
 
 <img width="1065" height="891" alt="2" src="https://github.com/user-attachments/assets/1bdfcace-f2ff-45dc-97fc-863b272a0b58" />
 
 <img width="916" height="600" alt="2" src="https://github.com/user-attachments/assets/d3851c28-9480-4e24-aed6-2e3216c0515d" />
-
 
 ---
 ## Future Improvements
